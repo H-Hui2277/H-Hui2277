@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... -->
 
 
-This is a cluttered personal repository, which includes personal projects and public projects of concern. 
+**H-Hui2277/H-Hui2277** is a cluttered personal repository, which includes personal projects and public projects of concern. 
 
 If you are interested in some of these projects, you are welcome to `communicate` privately.
