@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 **H-Hui2277/H-Hui2277** is a cluttered personal repository, which includes personal projects and public projects of concern. 
 
-If you are interested in some of these projects, you are welcome to `communicate` privately.
+If you are interested in some of these projects, you are welcome to conntact me.
